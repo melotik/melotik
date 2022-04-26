@@ -1,6 +1,6 @@
 ## hi there ⚡ - I'm Dylan
 
-passionately pushing forward web3 — aspiring to make a career out of it
+pushing forward web3 — learning so much — aspiring to make a career out of it
 
 ### 🔭 working on
 
