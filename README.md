@@ -1,17 +1,20 @@
 ## hi there ⚡ - I'm Dylan
 
-pushing forward web3 — always learning — aspiring to make a career out of it
+pushing forward web3 — always learning — making a career out of it
 
 ### 🔭 working on
 
 - building out [standardized DeFi subgraphs](https://github.com/messari/subgraphs) with [@messari](https://messari.io/)
-- runing technical related blockchain/web3 meetings [@badgerblockchain](https://www.badgerblockchain.com/)
-- fiishing up my cs degree [@uwmadison](https://www.cs.wisc.edu/)
+- advising and creating technical curriculum for [@badgerblockchain](https://www.badgerblockchain.com/)
 
 ### 📚 learning
 
 - reading [mastering ethereum](https://github.com/ethereumbook/ethereumbook#readme)
-- digging into current DeFi contracts
+- digging into DeFi contracts
+
+### ✅ acomplishments
+
+- cs degree & math certificate [@uwmadison](https://www.cs.wisc.edu/) 
 
 
 <!--
