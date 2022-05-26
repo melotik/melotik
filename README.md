@@ -11,10 +11,15 @@ pushing forward web3 — always learning — making a career out of it
 
 - reading [mastering ethereum](https://github.com/ethereumbook/ethereumbook#readme)
 - digging into DeFi contracts
+- reading/writing [rust](https://www.rust-lang.org/)
 
 ### ✅ acomplishments
 
 - cs degree & math certificate [@uwmadison](https://www.cs.wisc.edu/) 
+
+### ⚡ hobbies
+
+- rock climbing, snowboarding, traveling, learning new things
 
 
 <!--
