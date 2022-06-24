@@ -22,6 +22,8 @@ pushing forward web3 — always learning — making a career out of it
 
 - rock climbing, snowboarding, traveling, learning new things
 
+[dylan#4435](https://discord.com/users/956569388952223744) [@dylanmelotik](https://twitter.com/dylanmelotik)
+
 
 <!--
 **dmelotik/dmelotik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
