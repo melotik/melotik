@@ -12,7 +12,6 @@ pushing forward web3 — always learning — making a career out of it
 - reading [mastering ethereum](https://github.com/ethereumbook/ethereumbook#readme)
 - digging into DeFi contracts
 - reading/writing [rust](https://www.rust-lang.org/)
-- amatuer skydiver
 
 ### ✅ acomplishments
 
@@ -20,7 +19,7 @@ pushing forward web3 — always learning — making a career out of it
 
 ### ⚡ hobbies
 
-- rock climbing, snowboarding, traveling, learning new things
+- rock climbing, snowboarding, skydiving, traveling, learning new things
 
 [dylan#4435](https://discord.com/users/956569388952223744) [@dylanmelotik](https://twitter.com/dylanmelotik)
 
