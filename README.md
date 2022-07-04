@@ -1,6 +1,6 @@
 ## hi there ⚡ - I'm Dylan
 
-pushing forward web3 — always learning — making a career out of it
+reinventing interaction over the internet — always learning — making a career out of it
 
 ### 🔭 working on
 
@@ -13,7 +13,7 @@ pushing forward web3 — always learning — making a career out of it
 - digging into DeFi contracts
 - reading/writing [rust](https://www.rust-lang.org/)
 
-### ✅ acomplishments
+### ✅ accomplishments
 
 - cs degree & math certificate [@uwmadison](https://www.cs.wisc.edu/) 
 
