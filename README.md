@@ -7,11 +7,12 @@ reinventing interaction over the internet — always learning — making a caree
 - building out [standardized DeFi subgraphs](https://github.com/messari/subgraphs) with [@messari](https://messari.io/)
 - advising and creating technical curriculum for [@badgerblockchain](https://www.badgerblockchain.com/)
 
-### 📚 learning
+### 📚 learning / reading
 
 - reading [mastering ethereum](https://github.com/ethereumbook/ethereumbook#readme)
-- digging into DeFi contracts
 - reading/writing [rust](https://www.rust-lang.org/)
+- reading ["the network state"](https://thenetworkstate.com/)
+- TODO: read ["The Pragmatic Programmer"](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
 
 ### ✅ accomplishments
 
