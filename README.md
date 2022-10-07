@@ -4,7 +4,7 @@ reinventing interaction over the internet — always learning — making a caree
 
 ### 🔭 working on
 
-- building out [standardized DeFi subgraphs](https://github.com/messari/subgraphs) with [@messari](https://messari.io/)
+- building, maintaining, and pushing forward [standardized DeFi subgraphs](https://github.com/messari/subgraphs) with [@messari](https://messari.io/)
 - advising and creating technical curriculum for [@badgerblockchain](https://www.badgerblockchain.com/)
 
 ### 📚 learning / reading
