@@ -4,14 +4,14 @@ reinventing interaction over the internet — always learning — making a caree
 
 ### 🔭 working on
 
+- building [substreams](https://substreams.streamingfast.io/) with [@messari](https://github.com/messari/substreams) by utilizing the most sophisitcated blockchain indexing engine
 - building, maintaining, and pushing forward [standardized DeFi subgraphs](https://github.com/messari/subgraphs) with [@messari](https://messari.io/)
 - advising technical developments [@badgerblockchain](https://www.badgerblockchain.com/)
 
 ### 📚 learning / reading
 
-- reading [mastering ethereum](https://github.com/ethereumbook/ethereumbook#readme)
-- reading/writing [rust](https://www.rust-lang.org/)
-- reading ["the network state"](https://thenetworkstate.com/)
+- reading/writing [rust](https://www.rust-lang.org/) by building [substreams](https://substreams.streamingfast.io/)
+- studyig ["Designing Data Intensive Applications"](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
 - TODO: read ["The Pragmatic Programmer"](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
 
 ### ✅ accomplishments
@@ -27,15 +27,4 @@ reinventing interaction over the internet — always learning — making a caree
 
 <!--
 **dmelotik/dmelotik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
