@@ -11,7 +11,7 @@ reinventing interaction over the internet — always learning — making a caree
 ### 📚 learning / reading
 
 - reading/writing [rust](https://www.rust-lang.org/) by building [substreams](https://substreams.streamingfast.io/)
-- studyig ["Designing Data Intensive Applications"](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
+- studying ["Designing Data Intensive Applications"](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
 - TODO: read ["The Pragmatic Programmer"](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
 
 ### ✅ accomplishments
