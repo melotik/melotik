@@ -4,7 +4,7 @@ always learning — making a career out of it
 
 ### 🔭 working on
 
-- modeling, designing, and maintaining data pipelines transforming raw data into refined financial models at [messari.io](https://messari.io/)
+- modeling, designing, and maintaining data pipelines transforming raw data into high-level financial models at [messari.io](https://messari.io/)
 
 ### 📚 learning / reading
 
