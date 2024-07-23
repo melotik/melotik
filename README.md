@@ -4,15 +4,16 @@ always learning — making a career out of it
 
 ### 🔭 working on
 
-- modeling, designing, and maintaining data pipelines at [messari.io](https://messari.io/)
+- modeling, designing, and maintaining data pipelines at [openblocklabs](https://www.openblocklabs.com/)
 
 ### 📚 learning / reading
 
 - studying ["The Pragmatic Programmer"](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
 
-### ✅ accomplishments
+### ✅ experiences
 
-- cs degree & math certificate [@uwmadison](https://www.cs.wisc.edu/) 
+- data & software engineering at [messari.io](https://messari.io/)
+- cs degree & math certificate at [uwmadison](https://www.cs.wisc.edu/) 
 
 ### ⚡ hobbies
 
