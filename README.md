@@ -4,7 +4,7 @@ always learning — making a career out of it
 
 ### 🔭 working on
 
-- modeling, designing, and maintaining data pipelines at [openblocklabs](https://www.openblocklabs.com/)
+- building a crypto data analytics platform at [openblocklabs](https://www.openblocklabs.com/)
 
 ### 📚 learning / reading
 
@@ -17,6 +17,6 @@ always learning — making a career out of it
 
 ### ⚡ hobbies
 
-- rock climbing, snowboarding, skydiving, traveling, learning new things
+- rock climbing, snowboarding, [skydiving](https://www.youtube.com/@dylanmelotik), traveling, learning new things
 
 [dylan#4435](https://discord.com/users/956569388952223744) [@dylanmelotik](https://twitter.com/dylanmelotik)
